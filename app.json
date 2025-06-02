@@ -47,12 +47,6 @@
     "experiments": {
       "typedRoutes": true
     },
-    "owner": "joaobacalhau",
-    "runtimeVersion": {
-      "policy": "appVersion"
-    },
-    "updates": {
-      "url": "https://u.expo.dev/d502be8b-efff-47d1-b927-aab6d0f24f77"
-    }
+    "owner": "joaobacalhau"
   }
 }
