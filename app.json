@@ -17,15 +17,6 @@
         "backgroundColor": "#ffffff"
       }
     },
-    "extra": {
-      "DEEPSEE_API_KEY": "sk-b3127917b1ff45e2bdcbf466961116a5",
-      "router": {
-        "origin": false
-      },
-      "eas": {
-        "projectId": "d502be8b-efff-47d1-b927-aab6d0f24f77"
-      }
-    },
     "web": {
       "bundler": "metro",
       "output": "static",
